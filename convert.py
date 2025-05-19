@@ -1,10 +1,10 @@
 import json
 
 # Path to your input .txt file
-txt_path = "abc.txt"
+txt_path = "c.txt"
 
 # Path where you want to save the output .ipynb file
-ipynb_path = "NLP-3.ipynb"
+ipynb_path = "NLP-6.ipynb"
 
 # Read the content from the .txt file
 with open(txt_path, "r", encoding="utf-8") as txt_file:
